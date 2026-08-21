@@ -75,13 +75,18 @@ A longer prompt is not automatically a better prompt. The goal is increasingly d
 
 - [`docs/getting-started/`](docs/getting-started/) — begin here
 - [`docs/philosophy/`](docs/philosophy/) — durable human-led AI principles
+- [`docs/lessons/`](docs/lessons/) — complete teachable modules with practice, verification, assessment/challenge bridges, and teaching artifacts
 - [`assessment/`](assessment/) — live-project capability demonstration
 - [`challenge/`](challenge/) — deadline-bound applied mastery
 - [`prompts/`](prompts/) — reusable invocation patterns
 - [`workflows/`](workflows/) — reusable learning and production workflows
 - [`case-studies/`](case-studies/) — evidence from real use
 - [`labs/`](labs/) — experiments that should not be mistaken for established standards
-- [`templates/`](templates/) — reusable records and supporting materials
+- [`templates/`](templates/) — reusable records, lesson models, and supporting materials
+
+### First lesson model
+
+[`docs/lessons/portable-ai-memory-foundations.md`](docs/lessons/portable-ai-memory-foundations.md) is the first full lesson built around the reusable [`templates/lesson-model-template.md`](templates/lesson-model-template.md). It teaches provider-independent AI memory through a Canva-ready storyboard, guided practice, explain-back, verification, assessment, challenge, and teach-back.
 
 ## Status
 

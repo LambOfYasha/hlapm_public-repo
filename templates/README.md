@@ -13,9 +13,21 @@ Useful template categories may include:
 - role capability matrices;
 - manager review records;
 - case-study records;
-- workflow retrospectives.
+- workflow retrospectives;
+- reusable lesson models;
+- session-to-learning closeouts.
 
 Existing specialized templates currently live with their systems:
 
 - [`assessment/assessment-record-template.md`](../assessment/assessment-record-template.md)
 - [`challenge/challenge-record-template.md`](../challenge/challenge-record-template.md)
+
+## Lesson model
+
+- [`lesson-model-template.md`](lesson-model-template.md) — reusable structure for public HLAPM teaching modules, including Canva storyboarding, guided practice, explain-back, reproduction, adaptation, diagnosis, verification, prompt-from-knowledge work, assessment/challenge bridges, teach-back, and learning-debt tracking.
+
+## Session closeout
+
+- [`session-learning-closeout-template.md`](session-learning-closeout-template.md) — reusable public-safe handoff for turning a completed AI-assisted work session into a lesson/workflow/case-study/etc. proposal with sanitization, Canva mapping, verification, assessment/challenge bridges, and learning-debt tracking.
+
+The first full lesson built from this model is [`docs/lessons/portable-ai-memory-foundations.md`](../docs/lessons/portable-ai-memory-foundations.md).

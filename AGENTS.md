@@ -48,6 +48,19 @@ Use clear status labels when useful:
 
 Do not present experiments as established standards.
 
+## Session-Derived Learning Rule
+
+When public teaching material is derived from private or internal AI-assisted work, apply `workflows/session-to-public-learning-artifact.md`.
+
+- Extract the transferable principle rather than copying the private session.
+- Generalize or fictionalize private names, implementation details, internal paths, unreleased material, and other protected context when those details are not necessary to teach the concept.
+- Preserve reasoning, tradeoffs, verification methods, failure lessons, and human responsibilities.
+- Route the public derivative to the smallest appropriate destination: lesson, workflow, case study, template, assessment, challenge, prompt, or lab.
+- Keep project completion separate from learner mastery and record learning debt where relevant.
+- When the source session continues after an earlier teaching derivative was prepared, update only the parts of the public artifact that materially changed and preserve useful corrections.
+
+The public repository should remain understandable without requiring access to the private source repository.
+
 ## Public Repository Guardrails
 
 Do not commit:

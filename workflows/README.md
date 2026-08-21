@@ -19,3 +19,7 @@ Prefer durable principles over instructions tied to one temporary product interf
 Suggested progression:
 
 `Discover → Learn → Plan → Perform → Verify → Assess → Challenge → Integrate → Reflect → Systematize`
+
+## Session conversion
+
+- [`session-to-public-learning-artifact.md`](session-to-public-learning-artifact.md) — converts meaningful AI-assisted project sessions into sanitized public lessons, workflows, case studies, templates, assessments, or challenges while preserving the transferable reasoning and separating AI output from learner mastery.
