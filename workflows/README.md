@@ -23,3 +23,7 @@ Suggested progression:
 ## Session conversion
 
 - [`session-to-public-learning-artifact.md`](session-to-public-learning-artifact.md) — converts meaningful AI-assisted project sessions into sanitized public lessons, workflows, case studies, templates, assessments, or challenges while preserving the transferable reasoning and separating AI output from learner mastery.
+
+## Generic preprep
+
+- [Generic Preprep to Specialized Production](generic-preprep-to-specialized-production.md) — separates reusable, project-neutral scaffolding from context-aware prep, production, and validation; includes provider portability, privacy gates, semantic roles, and human capability evidence.

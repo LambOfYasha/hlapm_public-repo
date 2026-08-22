@@ -31,3 +31,7 @@ Existing specialized templates currently live with their systems:
 - [`session-learning-closeout-template.md`](session-learning-closeout-template.md) — reusable public-safe handoff for turning a completed AI-assisted work session into a lesson/workflow/case-study/etc. proposal with sanitization, Canva mapping, verification, assessment/challenge bridges, and learning-debt tracking.
 
 The first full lesson built from this model is [`docs/lessons/portable-ai-memory-foundations.md`](../docs/lessons/portable-ai-memory-foundations.md).
+
+## Content preprep
+
+- [content-preprep-packet-template.md](content-preprep-packet-template.md) — blank, provider-portable packet for generic disclaimers, reader guidance, semantic roles, metadata, prep handoff questions, accessibility, and validation.
