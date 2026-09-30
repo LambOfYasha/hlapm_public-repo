@@ -240,3 +240,8 @@ If work continues later:
 ## Success condition
 
 The workflow succeeds when a learner can benefit from the public artifact without access to the private project, while the important reasoning, verification, and human-learning goals remain intact.
+
+## Per-instance human acceptance
+
+Prepare the full sanitized candidate and exact diff privately before publication. Use [Public Conversion Review](../templates/public-conversion-review.md) to identify the instance, revision, destination files, hashes or immutable versions, omissions, checks, and exact proposed public action. Require human acceptance of each instance before any write to a public branch, draft PR, issue, or default branch. A blanket sync instruction or earlier acceptance does not authorize a later revision. Material content changes require a new review. Record NO PUBLIC DERIVATIVE when appropriate; do not force publication.
+

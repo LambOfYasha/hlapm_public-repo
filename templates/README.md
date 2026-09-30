@@ -35,3 +35,8 @@ The first full lesson built from this model is [`docs/lessons/portable-ai-memory
 ## Content preprep
 
 - [content-preprep-packet-template.md](content-preprep-packet-template.md) — blank, provider-portable packet for generic disclaimers, reader guidance, semantic roles, metadata, prep handoff questions, accessibility, and validation.
+
+## Public conversion review
+
+- [Public Conversion Review](public-conversion-review.md) — privately review exact candidate versions and authorize one specific public action per instance.
+

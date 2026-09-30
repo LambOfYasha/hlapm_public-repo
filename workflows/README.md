@@ -27,3 +27,8 @@ Suggested progression:
 ## Generic preprep
 
 - [Generic Preprep to Specialized Production](generic-preprep-to-specialized-production.md) — separates reusable, project-neutral scaffolding from context-aware prep, production, and validation; includes provider portability, privacy gates, semantic roles, and human capability evidence.
+
+## Memory reconciliation and human review
+
+- [Reconcile AI Memory with Human Review](reconcile-ai-memory-with-human-review.md) — compare provider summaries, preserve scope and supersession, and obtain acceptance of each exact public-conversion instance.
+
