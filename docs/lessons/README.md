@@ -32,6 +32,10 @@ Recommended deck rhythm:
 
 - [`portable-ai-memory-foundations.md`](portable-ai-memory-foundations.md) — teaches provider-independent AI memory using Git as durable authority, raw episodic capture, curated semantic memory, rebuildable retrieval indexes, and context packs.
 
+## Local agent systems (proposed)
+
+- [`evolving-local-agents-without-model-dependence.md`](evolving-local-agents-without-model-dependence.md) — teaches how verified FAQs, scripted workflows, source-linked memory, and permissions can make a local assistant useful without remote model dependence.
+
 ## Reusable model
 
 Use [`../../templates/lesson-model-template.md`](../../templates/lesson-model-template.md) when creating future HLAPM lessons.

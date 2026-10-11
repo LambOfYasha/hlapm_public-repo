@@ -88,6 +88,16 @@ A longer prompt is not automatically a better prompt. The goal is increasingly d
 
 [`docs/lessons/portable-ai-memory-foundations.md`](docs/lessons/portable-ai-memory-foundations.md) is the first full lesson built around the reusable [`templates/lesson-model-template.md`](templates/lesson-model-template.md). It teaches provider-independent AI memory through a Canva-ready storyboard, guided practice, explain-back, verification, assessment, challenge, and teach-back.
 
+### Proposed learning pathway: reusable local agents
+
+Explore how to make a local assistant useful without requiring a model for every question or repeated task:
+
+1. [Evolving Local Agents Without Model Dependence](docs/lessons/evolving-local-agents-without-model-dependence.md) — lesson with practice, tests, and honest learning debt.
+2. [Verified Agent Evolution](workflows/verified-agent-evolution.md) — reviewable conversion of manuals, templates, and repeated work into safe capabilities.
+3. [Local Agent Blueprint Template](templates/local-agent-blueprint-template.md) — worksheet for roles, knowledge, procedures, permissions, evidence, and rollback.
+
+These materials are **PROPOSED** educational resources, not evidence of a production-ready agent runtime or independently demonstrated mastery.
+
 ## Status
 
 **Public Foundation v0.3 — early public foundation.**

@@ -27,3 +27,7 @@ Suggested progression:
 ## Generic preprep
 
 - [Generic Preprep to Specialized Production](generic-preprep-to-specialized-production.md) — separates reusable, project-neutral scaffolding from context-aware prep, production, and validation; includes provider portability, privacy gates, semantic roles, and human capability evidence.
+
+## Local agents (proposed)
+
+- [Verified Agent Evolution](verified-agent-evolution.md) — safe workflow for converting manuals, templates, registered skills and tested procedures into a bounded agent profile, with review and rollback.

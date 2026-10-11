@@ -35,3 +35,7 @@ The first full lesson built from this model is [`docs/lessons/portable-ai-memory
 ## Content preprep
 
 - [content-preprep-packet-template.md](content-preprep-packet-template.md) — blank, provider-portable packet for generic disclaimers, reader guidance, semantic roles, metadata, prep handoff questions, accessibility, and validation.
+
+## Local agent blueprint (proposed)
+
+- [local-agent-blueprint-template.md](local-agent-blueprint-template.md) — reusable worksheet for knowledge, procedures, capability grants, scope, testing, fallback, provenance and safe agent evolution.
