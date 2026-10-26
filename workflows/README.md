@@ -31,3 +31,7 @@ Suggested progression:
 ## Local agents (proposed)
 
 - [Verified Agent Evolution](verified-agent-evolution.md) — safe workflow for converting manuals, templates, registered skills and tested procedures into a bounded agent profile, with review and rollback.
+
+## Local-first infrastructure (proposed)
+
+- [Verify a Local-First Workflow Before Replacing Subscriptions](verified-local-first-transition.md) — map dependencies, preserve and restore real work, test one offline capability, measure full costs, check applicable rules, and record learner evidence before expanding infrastructure.
