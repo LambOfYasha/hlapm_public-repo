@@ -35,3 +35,7 @@ Suggested progression:
 ## Local-first infrastructure (proposed)
 
 - [Verify a Local-First Workflow Before Replacing Subscriptions](verified-local-first-transition.md) — map dependencies, preserve and restore real work, test one offline capability, measure full costs, check applicable rules, and record learner evidence before expanding infrastructure.
+
+## Distributed AI worker networks (proposed)
+
+- [Build a Small AI Worker Network Without Losing Human Control](low-cost-ai-worker-network.md) — design a coordinator and bounded workers, prove permissions, job recovery and human approval, and scale from existing equipment using measured evidence.
