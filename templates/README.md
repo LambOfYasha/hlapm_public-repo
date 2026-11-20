@@ -39,3 +39,7 @@ The first full lesson built from this model is [`docs/lessons/portable-ai-memory
 ## Local agent blueprint (proposed)
 
 - [local-agent-blueprint-template.md](local-agent-blueprint-template.md) — reusable worksheet for knowledge, procedures, capability grants, scope, testing, fallback, provenance and safe agent evolution.
+
+## Storyboard handoff (proposed)
+
+- [storyboard-handoff-template.md](storyboard-handoff-template.md) — source-linked scenes/shots/panels, actual asset bindings, one active shot per request, revision/review evidence, and learner-owned verification.

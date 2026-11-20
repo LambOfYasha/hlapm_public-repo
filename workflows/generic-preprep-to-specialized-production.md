@@ -147,3 +147,11 @@ A learner demonstrates this workflow when they can:
 
 AI-generated templates alone are not evidence that the learner can perform these judgments independently.
 
+
+## Proposed storyboard handoff application
+
+**Status:** PROPOSED addition; existing workflow authority is unchanged.
+
+For media planning, use the [portable storyboard handoff template](../templates/storyboard-handoff-template.md). Keep script/reference facts, directing proposals, generated candidates, and human review evidence distinct. The portable source links scenes, shots, panels, and actual assets; a printable sheet is one view of it.
+
+Export one active shot request with relevant shared rules and real allowed attachments. Retain the full sequence overview separately. Verify the selected tool's current controls, inspect returned motion/sound, and preserve the reviewed baseline when preparing later revisions. The template includes a neutral example and learner-owned verification work.
